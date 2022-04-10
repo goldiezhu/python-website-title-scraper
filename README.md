@@ -14,7 +14,7 @@ links_3.csv is the csv where all the scraped titles will be added to so my links
 <br><br>
 final_titles is the list of news articles titles from the UCI News Popularity Dataset.
 <br><br>
-This was the first step of my group data analysis project (name: clickbait popularity project).
+This was the first step of my group data analysis project.
   
  
   
